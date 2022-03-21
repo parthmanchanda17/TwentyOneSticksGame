@@ -1,0 +1,2 @@
+# TwentyOneSticksGame
+Twenty One Sticks is a simple console-based gaming application developed in Java. It starts with a selection of twenty one sticks and prompts the user to pick either one or two sticks in one attempt based on user’s choice, the computer’s program makes it’s own choices. Eventually, whosoever picks the last stick, loses the game. The user is prompted at the beginning of the game to make a choice whether he wants to play first.
